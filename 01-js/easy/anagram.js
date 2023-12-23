@@ -6,6 +6,8 @@
 
 function isAnagram(str1, str2) {
   console.log("Hello")
+  console.log("Hello")
+
 }
 
 module.exports = isAnagram;
